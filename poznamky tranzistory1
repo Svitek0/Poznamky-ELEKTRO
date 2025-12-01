@@ -3,3 +3,5 @@ motor
 tranzistroy 
  - bipolární,  radiotechnika
  - unipolární, spínače
+Bipolární - NPN - PNP
+npn  - zátěž před tranzistor na kolektor. jelokož když zdroj je 3,3 motor 3v báze 0,7v a ztáty na tranzistoru 0,1 tak potom nemusí být na bázi větší napětí než na kolektoru
